@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+}
+#app{
+    background-color:bisque;
+
+}
+.io{
+    height:6px;
+    width:70px;
+    background-color:rgb(255, 203, 130);
+    margin: 16px auto;
+}
+#game{
+    background-color:antiquewhite;
+}
+img{
+    width:400px;
+
+}
+#chatbot{
+    background-color:azure;
+}
+h1{
+    font-size:37px;
+    font-family:monospace;
+}
